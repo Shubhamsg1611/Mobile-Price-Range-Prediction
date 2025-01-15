@@ -37,7 +37,7 @@ install.packages("ggplot2")
 install.packages("corrplot")
 ```
 
-## Data Visualizatio:
+## Data Visualization:
 - Battery Power vs Ram
 - Correlation Heatmap
 - Distribution of Price Range
@@ -45,7 +45,7 @@ install.packages("corrplot")
 - Feature Importance
 - Pair Plot
 - Ram Distribution
-- 
+
 ## Model Training:
 
 The model is trained using the Random Forest algorithm. The following steps are followed in the script:
