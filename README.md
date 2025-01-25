@@ -1,4 +1,6 @@
 # Mobile-Price-Range-Prediction
+![](https://www.datascienceportfol.io/static/profile_pics/pr29_422019713860D800F8B9.jpg)
+
 ## Overview:
 This project aims to predict the price range of mobile phones based on various features such as RAM, battery power, and other technical specifications. This project aims to predict the price range of mobile phones based on various features such as RAM, battery power, and other technical specifications. The model utilizes a Random Forest classifier to categorize mobile phones into four price categories: Low, Medium, High, and VeryHigh. The dataset contains information about 20 different features, including hardware specifications, to help classify the price range.
 
